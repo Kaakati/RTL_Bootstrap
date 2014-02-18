@@ -1,0 +1,105 @@
+body {
+    font-family: "Droid Arabic Kufi",Verdana !important;
+    font-size: 12px !important;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+.navbar li {
+    color: #777 !important;
+    transition: background-color .4s ease-in-out;
+   -moz-transition: background-color .4s ease-in-out;
+   -webkit-transition: background-color .4s ease-in-out;
+}
+.navbar li:hover, .navbar a:hover {
+    color: #777 !important;
+    /*color: #fff !important;*/
+    background-color: #e7e7e7;
+    transition: background-color .4s ease-in-out;
+   -moz-transition: background-color .4s ease-in-out;
+   -webkit-transition: background-color .4s ease-in-out;
+}
+input[type="text"] {
+    padding-top:  15px;
+}
+.bt-ara-header {
+    background-color:#6f5499;
+    background-image:-webkit-linear-gradient(top,#563d7c 0,#6f5499 100%);
+    background-image:linear-gradient(to bottom,#563d7c 0,#6f5499 100%);
+    background-repeat:repeat-x;
+}
+.bt-ara-center-align {
+    text-align: center;
+}
+.bt-t-15 {
+    padding-top: 15px;
+}
+.bt-t-55 {
+    padding-top: 55px;
+}
+.bt-arabic-header-white {
+    color: #fff;
+}
+.btn-outline-inverse{
+    color:#fff;
+    background-color:transparent;
+    border-color:#cdbfe3;  
+}
+.btn-outline {
+    color:#563d7c;
+    background-color:transparent;
+    border:1px solid #563d7c !important;
+}
+.btn-outline:hover,.btn-outline:focus,.btn-outline:active {
+    color:#fff !important;
+    background-color:#563d7c;
+    border:1px solid #563d7c;
+}
+.btn-outline-inverse:hover,
+.btn-outline-inverse:focus,
+.btn-outline-inverse:active{
+    color:#563d7c;
+    text-shadow:none;
+    background-color:#fff;
+    border:1px solid #fff !important;
+}
+.btn-outline-inverse {
+    border: 1px solid #fff !important;
+}
+.bt-version {
+    font-size: 12px !important;
+    color: #cdbfe3;
+}
+p {
+    font-size: 14px !important;
+}
+.bt-font-bold {
+    font-weight: bold;
+}
+.bt-borderless {
+    border: 1px solid transparent !important;
+}
+.p-normal {
+    font-size: 14px !important;
+    font-family: "Droid Arabic Kufi",Verdana;
+    line-height: 25px !important;
+}
+.half-rule {
+    width:100px;
+    margin:40px auto;
+}
+.bs-docs-footer {
+    padding-top:40px;
+    padding-bottom:40px;
+    margin-top:100px;
+    color:#777;
+    text-align:center;
+    border-top:1px solid #e5e5e5;
+}
+.bt-horz-line {
+    border-bottom: 1px solid #e5e5e5;
+}
+.bt-copyrights {
+    font-size: 11px !important;
+    color: #777 !important;
+}
