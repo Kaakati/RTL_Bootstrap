@@ -1,4 +1,4 @@
-Bootstrap Arabic بوتستراب عربي
+RTL Bootstrap - Arabic بوتستراب عربي
 ================
 
 
