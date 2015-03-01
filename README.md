@@ -1,3 +1,9 @@
+نسخة 3.3.2
+https://github.com/Kaakati/RTL_Bootstrap_3.3.2
+
+
+
+============================================
 RTL Bootstrap - Arabic بوتستراب عربي
 ================
 
@@ -9,8 +15,6 @@ Arabic Bootstrap - RTL
 ==================================
 
 CSS قم بإستخدام ملف بوتستراب داخل مجلد 
-
-http://bootstrap.steam-cloud.com/
 
 <img src="http://bootstrap.steam-cloud.com/imgs/bootstrapARA.png">
 
